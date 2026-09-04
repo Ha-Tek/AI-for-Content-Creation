@@ -2,7 +2,7 @@
 # Build with AI: Presentation slides with Canvas Gemini
 
 Step 1: Build the slide deck with Canvas:
-Acting as an expert designer help me create a text-only slide deck based on the attached document.
+Acting as an expert designer help me create a text-only slide deck based on the attached document (Service Overview Doc .pdf).
 
 Step 2: Edit your slides:
 
