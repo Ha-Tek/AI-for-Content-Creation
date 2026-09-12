@@ -31,7 +31,7 @@ Step 3: Generate a video
 
 Now we are going to take that image, and turn it into a video. Select “Create videos (Veo 3.1)" from the tools menu. This will launch a new chat. In the new chat, paste the prompt below and attach an image from the previous step.
 
-**Attached is an image of my company's new mascot. Create a video for social media where the mascot introduces itself. Our company is called Debug Depot. 
+**Attached is an image of my company's new mascot. Create a video for social media where the mascot introduces itself. Our company is called Debug Depot. We provide IT support for small businesses.
 **
 
 
