@@ -4,7 +4,7 @@
 Hands-on projects on Coursera:
 
 - To generate images and videos to transform concepts into reality using Gemini.
-- Develop and enhance with Gemini Canvas and Slides.
+- Develop and enhance presentations with Gemini Canvas and Slides.
 
 
 
